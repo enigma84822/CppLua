@@ -1,2 +1,2 @@
-# CppLua
-cpp &amp; lua
+# CppProject
+cpp project
